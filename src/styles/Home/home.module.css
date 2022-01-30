@@ -1,0 +1,6 @@
+.header {
+    @apply mt-5 mx-10
+}
+.home {
+    @apply flex flex-col 
+}
